@@ -3,5 +3,5 @@ I will complete it in my free time
 
 <br>
 
-### Click the link below to see the preview :
+### Click the link below to see the live preview :
 [Click here](https://nazaneyn.github.io/Navbar/)
